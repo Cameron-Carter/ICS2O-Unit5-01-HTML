@@ -1,0 +1,14 @@
+.body {
+  background-color:lightgrey;
+  color:forestgreen;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  font-size:250%;
+}
+.h1 {
+  text-align:center;
+  font-size:150%;
+}
+.form {
+  color:brown;
+  border:6px solid teal;
+}
